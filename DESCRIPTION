@@ -9,4 +9,5 @@ License: Creative Commons
 Encoding: UTF-8
 LazyData: true
 Depends:
-    Hmisc
+    Hmisc,
+    pROC
